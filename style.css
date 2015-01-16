@@ -1,0 +1,20 @@
+#space,
+#color_menu {
+  margin-bottom: 2em;
+  cursor: pointer;
+}
+
+#tool {
+  margin: 1.5em 0;
+}
+
+.btn {
+  margin-right: 10px;
+  border-radius: 5px;
+  width: 150px;
+  heigth: 45p;
+}
+
+span {
+  padding: 0 5px;
+}
